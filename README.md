@@ -6,7 +6,7 @@ Detect when smoke is released.
 >
 > **Thank you!**
 
-![kemuri-kenchi](asset/logo.png?raw=true)
+![kemuri-kenchi](asset/logo.jpg?raw=true)
 
 [![Python Version](https://img.shields.io/badge/python%20version-%3E=3.7.6-61CFDD.svg?style=flat-square)](https://www.python.org/downloads/release/python-376/)
 
