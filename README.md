@@ -25,7 +25,7 @@ kemuri-kenchi is a solution for monitoring smoke released from factory. Belows i
 
 
 It is designed to track smoking by [Gaussian Mixture Model(GMM)](https://ir.nctu.edu.tw/bitstream/11536/68068/7/251107.pdf).
-and formats. It supports:
+It supports:
 
 * automately alarm when detect smoking
 * distinguish smoke moving from cloud moving.
