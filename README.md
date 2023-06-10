@@ -8,7 +8,6 @@ Detect when smoke is released.
 
 ![kemuri-kenchi](logo.png?raw=true)
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/spf13/viper/ci.yaml?branch=master&style=flat-square)](https://github.com/spf13/viper/actions?query=workflow%3ACI)
 [![Python Version](https://img.shields.io/badge/python%20version-%3E=3.7.6-61CFDD.svg?style=flat-square)](https://www.python.org/downloads/release/python-376/)
 
 
