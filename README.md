@@ -6,11 +6,9 @@ Detect when smoke is released.
 >
 > **Thank you!**
 
-![kemuri-kenchi](logo.png?raw=true)
+![kemuri-kenchi](asset/logo.png?raw=true)
 
 [![Python Version](https://img.shields.io/badge/python%20version-%3E=3.7.6-61CFDD.svg?style=flat-square)](https://www.python.org/downloads/release/python-376/)
-
-
 
 
 ## Install
@@ -21,7 +19,7 @@ git clone git@github.com:nanotube164/kemuri-kenchi.git
 
 ## What is kemuri-kenchi?
 
-kemuri-kenchi is a solution for collecting data from PI system including [22-Factor for MGGH]((https://www.scirp.org/journal/paperinformation.aspx?paperid=96324)).
+kemuri-kenchi is a solution for monitoring smoke released from factory. Belows is the demo.
 
 ![](https://github.com/nanotube164/kemuri-kenchi/blob/main/result.gif)
 
