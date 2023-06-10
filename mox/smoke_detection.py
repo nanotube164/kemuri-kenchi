@@ -309,7 +309,6 @@ class Detector(object):
         
             for i in range((len(region_all) - 1)):
                 if((time.time() - smoke_initial_time[i] < duration and smoke_flag[i])):
-                    #print("time now: ",timestamp,"time diff: ",time_diff_all[i],sep="  ")
                     if count <= 6:
                         temp_time_diff.append(time_diff_all[i])
                         temp_x_dis.append(x_dis[i])
@@ -474,18 +473,15 @@ class Detector(object):
                 cv2.waitKey(-1)
 
             global index
-            # close_and_restart_time = time.strftime("%H%M%S", time.localtime())
             close_and_restart_time = time.strftime("%H%M", time.localtime())
             if close_and_restart_time == '2359' and index == 0:
-            # if close_and_restart_time == '235959' and index == 0:
                 index = 1
                 break
         
         cap.release()
         cv2.destroyAllWindows()
         
-        # wb.save(filename = xlsx_file)
-        # wb_1min.save(filename = xlsx_file_1min)
+
 
         return switch
 
