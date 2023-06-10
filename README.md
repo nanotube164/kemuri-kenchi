@@ -31,7 +31,7 @@ It supports:
 * distinguish smoke moving from cloud moving.
 
 
-kemuri-kenchi can be thought of as automation for extracting data.
+kemuri-kenchi can be thought of as signal alarm.
 
 
 ## How to activate?
